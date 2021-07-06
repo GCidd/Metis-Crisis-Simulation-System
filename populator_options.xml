@@ -1,0 +1,4 @@
+<populator>
+	<agent name="Young Adult"/>
+	<buildings_to_spawn number="4"/>
+</populator>

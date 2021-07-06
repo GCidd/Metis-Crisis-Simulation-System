@@ -1,0 +1,111 @@
+<Presentation>
+  <Walls>
+    <Wall position="(-0.588123, 0, -11.238224)" rotation="(0, 270, 0)" />
+    <Wall position="(-12.5881462, 0, -8.238216)" rotation="(0, 180, 0)" />
+    <Wall position="(-12.5881462, 0, -2.23821259)" rotation="(0, 180, 0)" />
+    <Wall position="(-6.588146, 0, -2.23821259)" rotation="(0, 90, 0)" />
+    <Wall position="(-3.58815, 0, -2.238213)" rotation="(0, 90, 0)" />
+    <Wall position="(-3.58812332, 0, -11.238224)" rotation="(0, 270, 0)" />
+    <Wall position="(-12.5881462, 0, -2.23821259)" rotation="(0, 90, 0)" />
+    <Wall position="(-15.5881462, 0, -2.23821259)" rotation="(0, 90, 0)" />
+    <Wall position="(-0.588146, 0, -8.238216)" rotation="(0, 180, 0)" />
+    <Wall position="(-0.588146, 0, -2.23821259)" rotation="(0, 180, 0)" />
+    <Wall position="(-6.58816147, 0, -11.238224)" rotation="(0, 270, 0)" />
+    <Wall position="(-9.588161, 0, -11.238224)" rotation="(0, 270, 0)" />
+    <Wall position="(-3.79124641, 0, 0.7617874)" rotation="(0, 0, 0)" />
+    <Wall position="(-3.79124641, 0, 3.76178741)" rotation="(0, 0, 0)" />
+    <Wall position="(-3.79124641, 0, -2.23821259)" rotation="(0, 0, 0)" />
+    <Wall position="(-6.79126167, 0, 6.76178741)" rotation="(0, 270, 0)" />
+    <Wall position="(-9.791262, 0, 6.76178741)" rotation="(0, 270, 0)" />
+    <Wall position="(-3.79124641, 0, 6.76178741)" rotation="(0, 270, 0)" />
+    <Wall position="(-12.7912464, 0, 3.76178741)" rotation="(0, 180, 0)" />
+    <Wall position="(-12.7912464, 0, 0.7617874)" rotation="(0, 180, 0)" />
+    <Wall position="(-12.7912464, 0, 6.76178741)" rotation="(0, 180, 0)" />
+    <Wall position="(-18.5881615, 0, -2.23821259)" rotation="(0, 270, 0)" />
+    <Wall position="(-15.5881462, 0, -2.23821259)" rotation="(0, 270, 0)" />
+    <Wall position="(-21.5881615, 0, -5.23821259)" rotation="(0, 180, 0)" />
+    <Wall position="(-21.5881615, 0, -2.23821259)" rotation="(0, 180, 0)" />
+    <Wall position="(-15.5881462, 0, -8.238213)" rotation="(0, 90, 0)" />
+    <Wall position="(-18.5881615, 0, -8.238213)" rotation="(0, 270, 0)" />
+    <Wall position="(-15.5881462, 0, -8.238213)" rotation="(0, 270, 0)" />
+  </Walls>
+  <DoubleDoors>
+    <DoubleDoor position="(-8.088135, 0, -2.23821259)" rotation="(0, 90, 0)" Exit="No" />
+    <DoubleDoor position="(-12.5881348, 0, -6.73821259)" rotation="(0, 180, 0)" Exit="No" />
+    <DoubleDoor position="(-0.588134766, 0, -6.73821259)" rotation="(0, 180, 0)" Exit="Yes" />
+  </DoubleDoors>
+  <Floors>
+    <Floor position="(-11.29125, 0, 5.26178837)" rotation="(0, 90, 0)" />
+    <Floor position="(-11.29125, 0, 2.26178741)" rotation="(0, 90, 0)" />
+    <Floor position="(-11.29125, 0, -0.738213539)" rotation="(0, 90, 0)" />
+    <Floor position="(-5.08815, 0, -3.73821449)" rotation="(0, 90, 0)" />
+    <Floor position="(-5.08815, 0, -6.73821545)" rotation="(0, 90, 0)" />
+    <Floor position="(-5.08815, 0, -9.738215)" rotation="(0, 90, 0)" />
+    <Floor position="(-8.29125, 0, 5.26178837)" rotation="(0, 90, 0)" />
+    <Floor position="(-8.29125, 0, 2.26178741)" rotation="(0, 90, 0)" />
+    <Floor position="(-8.29125, 0, -0.738213539)" rotation="(0, 90, 0)" />
+    <Floor position="(-2.08815, 0, -3.73821449)" rotation="(0, 90, 0)" />
+    <Floor position="(-2.08815, 0, -6.73821545)" rotation="(0, 90, 0)" />
+    <Floor position="(-2.08815, 0, -9.738215)" rotation="(0, 90, 0)" />
+    <Floor position="(-5.29124832, 0, 5.26178837)" rotation="(0, 90, 0)" />
+    <Floor position="(-5.29124832, 0, 2.26178741)" rotation="(0, 90, 0)" />
+    <Floor position="(-5.29124832, 0, -0.738213539)" rotation="(0, 90, 0)" />
+    <Floor position="(-20.08815, 0, -3.73821163)" rotation="(0, 90, 0)" />
+    <Floor position="(-20.08815, 0, -6.73821163)" rotation="(0, 90, 0)" />
+    <Floor position="(-17.08815, 0, -3.73821163)" rotation="(0, 90, 0)" />
+    <Floor position="(-17.08815, 0, -6.73821163)" rotation="(0, 90, 0)" />
+    <Floor position="(-14.08815, 0, -3.73821163)" rotation="(0, 90, 0)" />
+    <Floor position="(-14.08815, 0, -6.73821163)" rotation="(0, 90, 0)" />
+    <Floor position="(-11.0881462, 0, -3.73821163)" rotation="(0, 90, 0)" />
+    <Floor position="(-11.0881462, 0, -6.73821163)" rotation="(0, 90, 0)" />
+    <Floor position="(-11.0881462, 0, -9.738214)" rotation="(0, 90, 0)" />
+    <Floor position="(-8.088146, 0, -3.73821163)" rotation="(0, 90, 0)" />
+    <Floor position="(-8.088146, 0, -6.73821163)" rotation="(0, 90, 0)" />
+    <Floor position="(-8.088146, 0, -9.738214)" rotation="(0, 90, 0)" />
+  </Floors>
+  <StaticObjects>
+    <Large_Cabinet position="(-19.1819, 0.2499994, -2.76164913)" rotation="(0, 0, 0)" />
+    <Large_Cabinet position="(-20.6819, 0.25, -7.39407063)" rotation="(0, 270, 0)" />
+    <Large_Cabinet position="(-20.6819, 0.25, -6.276883)" rotation="(0, 270, 0)" />
+    <Large_Cabinet position="(-13.4944, 0.2499994, -2.76164913)" rotation="(0, 1.70754709E-06, 0)" />
+    <Large_Cabinet position="(-14.9944, 0.2499994, -2.76164913)" rotation="(0, 1.70754709E-06, 0)" />
+    <Computer_Desk position="(-17.478775, 0.2499994, -2.84758663)" rotation="(0, 0, 0)" />
+    <Computer_Desk position="(-20.478775, 0.25, -5.073758)" rotation="(0, 89.9999847, 0)" />
+    <Pot_Plant_1 position="(-16.197525, 0.2499994, -2.74634457)" rotation="(0, 0, 0)" />
+    <Pot_Plant_1 position="(-20.6750641, 0.25, -3.8)" rotation="(0, 0, 0)" />
+    <Computer_Desk position="(-7.71816063, 0.2499994, 6.15241337)" rotation="(0, -1.70754709E-06, 0)" />
+    <Small_Cabinet position="(-6.374197, 0.2499994, 6.34381962)" rotation="(0, 0, 0)" />
+    <Pot_Plant_1 position="(-8.991934, 0.2499994, 6.25365543)" rotation="(0, 0, 0)" />
+    <Shelf position="(-11.8225, 0.2499994, 6.35553837)" rotation="(0, 1.70754709E-06, 0)" />
+    <Shelf position="(-4.76, 0.2499994, 6.35553837)" rotation="(0, 1.70754709E-06, 0)" />
+    <Large_Shelf position="(-11.8225, 0.25, 2.51398563)" rotation="(0, 3.41509462E-06, 0)" />
+    <Large_Shelf position="(-10.1975, 0.24999997, 2.49125)" rotation="(0, 3.41509462E-06, 0)" />
+    <Large_Shelf position="(-4.76, 0.25, 2.58252048)" rotation="(0, 3.41509462E-06, 0)" />
+    <Large_Shelf position="(-6.385, 0.25, 2.58252048)" rotation="(0, 3.41509462E-06, 0)" />
+    <Large_Shelf position="(-11.8225, 0.25, 0.370759)" rotation="(0, 3.41509462E-06, 0)" />
+    <Large_Shelf position="(-10.1975, 0.25, 0.3897562)" rotation="(0, 3.41509462E-06, 0)" />
+    <Large_Shelf position="(-4.76, 0.25, 0.3897562)" rotation="(0, 3.41509462E-06, 0)" />
+    <Large_Shelf position="(-6.385, 0.25, 0.3897562)" rotation="(0, 3.41509462E-06, 0)" />
+    <Pot_Plant_1 position="(-12.0800018, 0.25, -8.695342)" rotation="(0, 0, 0)" />
+    <Pot_Plant_1 position="(-12.0800018, 0.25, -4.89347744)" rotation="(0, 0, 0)" />
+  </StaticObjects>
+  <Fires>
+    <Fire_1 position="(-18.6057739, 0, -6.58688354)" rotation="(0, 0, 0)" />
+  </Fires>
+  <SafeAreas>
+    <Safe_Area_1 position="(1.09812164, 0.72, -6.523075)" rotation="(0, 0, 0)" scale="(2.7, 0.0, 5.8)" />
+  </SafeAreas>
+  <Pedestrians>
+    <Young_Adult position="(-11.9679565, 0, 5.93108368)" rotation="(0, 0, 0)" />
+    <Young_Adult position="(-7.579254, 0.25000003, 5.167671)" rotation="(0, 0, 0)" />
+    <Young_Adult position="(-11.0575256, 0.25000003, 1.62179565)" rotation="(0, 0, 0)" />
+    <Young_Adult position="(-4.70822144, 0.25000003, -0.287353516)" rotation="(0, 0, 0)" />
+    <Young_Adult position="(-9.029816, 0.25000003, -9.437607)" rotation="(0, 0, 0)" />
+    <Young_Adult position="(-5.589386, 0.25000003, -4.802223)" rotation="(0, 0, 0)" />
+    <Young_Adult position="(-3.79470825, 0.25000003, -7.36750031)" rotation="(0, 0, 0)" />
+    <Young_Adult position="(-17.18332, 0.25000003, -3.68135834)" rotation="(0, 0, 0)" />
+    <Young_Adult position="(-19.7961426, 0.25000003, -4.88795471)" rotation="(0, 0, 0)" />
+    <Young_Adult position="(-13.6929016, 0.25000003, -3.67380524)" rotation="(0, 0, 0)" />
+  </Pedestrians>
+  <Building position="(-9.983154, 0, -13.0022507)" rotation="(0, 0, 0)" />
+</Presentation>
