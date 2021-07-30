@@ -18,28 +18,28 @@ public class MouseModeManager : MonoBehaviour
             MouseModeManager mouseModeManager = (MouseModeManager)target;
             if (GUILayout.Button("Create mouse mode components"))
             {
-                if (mouseModeManager.GetComponent<BuildingPlacementMode>() == null)
-                    mouseModeManager.gameObject.AddComponent<BuildingPlacementMode>();
-                if (mouseModeManager.GetComponent<DoubleDoorPlacementMode>() == null)
-                    mouseModeManager.gameObject.AddComponent<DoubleDoorPlacementMode>();
-                if (mouseModeManager.GetComponent<FireStarterMode>() == null)
-                    mouseModeManager.gameObject.AddComponent<FireStarterMode>();
-                if (mouseModeManager.GetComponent<FloorBuildingMode>() == null)
-                    mouseModeManager.gameObject.AddComponent<FloorBuildingMode>();
-                if (mouseModeManager.GetComponent<GrabMode>() == null)
-                    mouseModeManager.gameObject.AddComponent<GrabMode>();
-                if (mouseModeManager.GetComponent<NewObjectPlacementMode>() == null)
-                    mouseModeManager.gameObject.AddComponent<NewObjectPlacementMode>();
-                if (mouseModeManager.GetComponent<PedestrianPlacementMode>() == null)
-                    mouseModeManager.gameObject.AddComponent<PedestrianPlacementMode>();
-                if (mouseModeManager.GetComponent<PointerMode>() == null)
-                    mouseModeManager.gameObject.AddComponent<PointerMode>();
-                if (mouseModeManager.GetComponent<SafeAreaMode>() == null)
-                    mouseModeManager.gameObject.AddComponent<SafeAreaMode>();
-                if (mouseModeManager.GetComponent<StaircasePlacementMode>() == null)
-                    mouseModeManager.gameObject.AddComponent<StaircasePlacementMode>();
-                if (mouseModeManager.GetComponent<WallBuildingMode>() == null)
-                    mouseModeManager.gameObject.AddComponent<WallBuildingMode>();
+                // if (mouseModeManager.GetComponent<BuildingPlacementMode>() == null)
+                //     mouseModeManager.gameObject.AddComponent<BuildingPlacementMode>();
+                // if (mouseModeManager.GetComponent<DoubleDoorPlacementMode>() == null)
+                //     mouseModeManager.gameObject.AddComponent<DoubleDoorPlacementMode>();
+                // if (mouseModeManager.GetComponent<FireStarterMode>() == null)
+                //     mouseModeManager.gameObject.AddComponent<FireStarterMode>();
+                // if (mouseModeManager.GetComponent<FloorBuildingMode>() == null)
+                //     mouseModeManager.gameObject.AddComponent<FloorBuildingMode>();
+                // if (mouseModeManager.GetComponent<GrabMode>() == null)
+                //     mouseModeManager.gameObject.AddComponent<GrabMode>();
+                // if (mouseModeManager.GetComponent<NewObjectPlacementMode>() == null)
+                //     mouseModeManager.gameObject.AddComponent<NewObjectPlacementMode>();
+                // if (mouseModeManager.GetComponent<PedestrianPlacementMode>() == null)
+                //     mouseModeManager.gameObject.AddComponent<PedestrianPlacementMode>();
+                // if (mouseModeManager.GetComponent<PointerMode>() == null)
+                //     mouseModeManager.gameObject.AddComponent<PointerMode>();
+                // if (mouseModeManager.GetComponent<SafeAreaMode>() == null)
+                //     mouseModeManager.gameObject.AddComponent<SafeAreaMode>();
+                // if (mouseModeManager.GetComponent<StaircasePlacementMode>() == null)
+                //     mouseModeManager.gameObject.AddComponent<StaircasePlacementMode>();
+                // if (mouseModeManager.GetComponent<WallBuildingMode>() == null)
+                //     mouseModeManager.gameObject.AddComponent<WallBuildingMode>();
             }
         }
 

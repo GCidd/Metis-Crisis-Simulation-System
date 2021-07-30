@@ -29,7 +29,7 @@ public class MouseMode : MonoBehaviour
 public class MouseModeSingleton<T> : MouseMode where T : MouseMode
 {
     // Check to see if we're about to be destroyed.
-    protected static bool m_ShuttingDown = false;
+    private static bool m_ShuttingDown = false;
     protected static object m_Lock = new object();
     protected static T m_Instance;
 

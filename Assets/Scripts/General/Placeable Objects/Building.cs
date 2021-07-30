@@ -505,7 +505,7 @@ public class Building : PlaceableObject
             }
             counter[pedestrianName] += 1;
 
-            GameObject newPedestrian = GameObject.Instantiate(PlaceableObject.Placeables[pedestrianName], Vector3.zero, Quaternion.identity, transform);
+            GameObject newPedestrian = GameObject.Instantiate(PlaceableObject.Placeables[pedestrianName], transform);
             // newPedestrian.name = string.Format("{0} {1}", pedestrianName, counter[pedestrianName]);
             newPedestrian.name = string.Format("{0} {1}", pedestrianName, pedCounter.ToString());
             newPedestrian.GetComponent<RenderTextureSensorComponent>().RenderTexture.name = newPedestrian.name;
@@ -513,7 +513,6 @@ public class Building : PlaceableObject
             pedCounter++;
             newPedestrian.GetComponent<Pedestrian>().LoadNodeFromXml(pedestrianNode);
         }
-
 
         FixCenter();
         name = buildingNode.Name.Replace('_', ' ');

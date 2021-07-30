@@ -269,7 +269,7 @@ public class MLCharacterControl : Agent
         lastAction.distance = Vector3.Distance(transform.position, targetPosition);
         m_AgentMovementControl.MLMove(h, v);
 
-        if (StepCount >= MaxStep - 1)
+        if (GetComponent<BehaviorParameters>().BehaviorType == BehaviorType.Default && StepCount >= MaxStep - 1)
         {
             lastEpisodeResult = EpisodeEndResult.None;
             EndEpisode();
